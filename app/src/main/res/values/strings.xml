@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GCMClienSide</string>
+    <string name="action_settings">Settings</string>
+    <string name="ERROR">Error</string>
+    <string name="INTERNALSERVERERROR">Error while registeration</string>
+    <string name="TRYAGIN">Try Again</string>
+    <string name="EXIT">Exit</string>
+</resources>
